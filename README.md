@@ -29,4 +29,4 @@ This is a Python-based Telegram bot that uses the [DeepSeek-R1-Zero](https://hug
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/himadribh07/Telebot.git
-cd telegram-gpt-bot
+cd Telebot
